@@ -36,6 +36,7 @@ WATCH_SYMBOLS_FILE = "%s/watch_symbols.txt" % (TD_TRADE_DIR)
 SHORT_LIST_SYMBOLS_FILE = "%s/short_list_symbols.txt" % (TD_TRADE_DIR)
 BLOCK_LIST_SYMBOLS_FILE = "%s/block_list.txt" %(TD_TRADE_DIR)
 LIVE_SOURCE = "%s/live.csv"% (TD_TRADE_DIR)
+DEAD_SOURCE = "%s/dead.csv"% (TD_TRADE_DIR)
 MACRO_MARKET_SOURCE = "%s/macro_market.csv"% (TD_TRADE_DIR)
 WATCH_SOURCE = "%s/watch.csv" % (TD_TRADE_DIR)
 
