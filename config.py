@@ -43,8 +43,8 @@ WATCH_SOURCE = "%s/watch.csv" % (TD_TRADE_DIR)
 
 PL_LIVE_REPORT_FILE = "%s/rd_live.csv" % (RD_REPORT_DIR)
 PL_DEAD_REPORT_FILE = "%s/rd_dead.csv" %(RD_REPORT_DIR)
-PL_DEAD_PL_STAT_REPORT_FILE = "%s/rd_monthly_pl.csv" %(RD_REPORT_DIR)
-PL_MONTHLY_PL_STAT_REPORT_FILE = "%s/rd_monthly_pl.csv" %(RD_REPORT_DIR)
+PL_DEAD_PL_STAT_REPORT_FILE = "%s/rd_dead_stat.csv" %(RD_REPORT_DIR)
+PL_MONTHLY_PL_STAT_REPORT_FILE = "%s/rd_monthly_stat.csv" %(RD_REPORT_DIR)
 PL_REPORT_EXPOSURE_FILE = "%s/rd_exposure.csv" % (RD_REPORT_DIR)
 MACRO_MARKET_REPORT_FILE = "%s/rd_macro_market.csv" % (RD_REPORT_DIR)
 
