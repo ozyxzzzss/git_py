@@ -165,6 +165,6 @@ STOCK_RETURN_REPORT_FILE_HEADER = ['Stock', 'Name', 'PE', 'Volume(k)', 'Spot','o
 
 # reference date for major events
 MACRO_EVENT_REF_DATE_1 = '2016-01-28'
-MACRO_EVENT_REF_DATE_2 = '2016-09-08'
+MACRO_EVENT_REF_DATE_2 = '2016-11-09'
 
 # stragety reporting
