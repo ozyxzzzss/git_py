@@ -164,7 +164,7 @@ STOCK_RETURN_WATCH_FILE =  '%s/return_watch.csv' % (RP_TECHNA_DIR)
 STOCK_RETURN_REPORT_FILE_HEADER = ['Stock', 'Name', 'PE', 'Volume(k)', 'Spot','open','low','high','DayChg', 'WekChg', 'MonChg', 'DayRtn', 'Bd','Gd','SL1','SL2','WekRtn', 'Bd', 'Gd', 'SL1','SL2','MthRtn','Bd', 'Gd', 'SL1','SL2','vol2D rng','vol7D rng','1p rng','2p rng','5p rng']
 
 # reference date for major events
-MACRO_EVENT_REF_DATE_1 = '2016-01-28'
-MACRO_EVENT_REF_DATE_2 = '2016-11-09'
+MACRO_EVENT_REF_DATE_1 = '2016-11-09'
+MACRO_EVENT_REF_DATE_2 = '2017-01-04'
 
 # stragety reporting
